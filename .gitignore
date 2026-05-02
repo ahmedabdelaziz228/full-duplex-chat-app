@@ -1,0 +1,22 @@
+# Build folders
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+
+# Executables
+*.exe
+*.o
+*.obj
+
+# CodeBlocks temporary files
+*.depend
+*.layout
+
+# Chat history output
+chat_history.txt
+
+# VS Code settings optional
+.vscode/
